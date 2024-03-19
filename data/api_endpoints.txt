@@ -7,3 +7,4 @@ Do what you love and the money will follow. JavaScript Lambda Functions Message 
 A/B Testing Data Pipeline Scalability Cloud Simplicity is the ultimate sophistication.
 Docker Act as if what you do makes a difference. It does. Zero Downtime Deployment Stay hungry, stay foolish. Kubernetes Version Control Load Testing Automation Lambda Functions OAuth Happiness is not something ready made. It comes from your own actions. GraphQL Success is not in what you have, but who you are.
 Message Queue DNS Routing CI/CD Distributed Systems Security Sharding Version Control Kafka Blockchain
+JWT Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Container Orchestration Monitoring Agile Success doesn’t just find you. You have to go out and get it. API Gateway A/B Testing Cloud
