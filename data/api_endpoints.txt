@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Python Deployment Data
 Do what you love and the money will follow. JavaScript Lambda Functions Message Queue Testing NLP A/B Testing Multi-threading Pull Request Database Sharding Kubernetes Virtual Machines Agile
 A/B Testing Data Pipeline Scalability Cloud Simplicity is the ultimate sophistication.
 Docker Act as if what you do makes a difference. It does. Zero Downtime Deployment Stay hungry, stay foolish. Kubernetes Version Control Load Testing Automation Lambda Functions OAuth Happiness is not something ready made. It comes from your own actions. GraphQL Success is not in what you have, but who you are.
+Message Queue DNS Routing CI/CD Distributed Systems Security Sharding Version Control Kafka Blockchain
