@@ -8,3 +8,4 @@ Great things never come from comfort zones. Simplicity is the ultimate sophistic
 Work hard in silence, let your success be your noise. Docker Act as if what you do makes a difference. It does. Pull Request Replica Set Blockchain Lambda Functions Scalability Parallel Processing
 Sharding Agile Predictive Analytics Edge Computing GraphQL Success is not in what you have, but who you are.
 A/B Testing Security Database Cache Invalidation Event Sourcing Kafka Opportunities don't happen. You create them. Serverless
+Parallel Processing DNS Routing Code Review IoT Sharding Monitoring Cloud Functions Logging The only way to do great work is to love what you do.
