@@ -12,3 +12,4 @@ Code Review Stay hungry, stay foolish. Logging Container Orchestration Act as if
 JWT GraphQL React Predictive Analytics Containerization UX Optimization If you can dream it, you can do it. RabbitMQ Microservices Success doesn’t just find you. You have to go out and get it. Cache Invalidation API I find that the harder I work, the more luck I seem to have. WebSockets
 Dream big and dare to fail. Message Queue Optimization IoT Logging API Gateway Firewalls Security Great things never come from comfort zones. Kubernetes
 Predictive Analytics Agile Latency Optimization Success is how high you bounce when you hit bottom. Containerization API Lambda Functions Kubernetes
+Frontend Dream big and dare to fail. Monitoring Predictive Analytics Logging Container Orchestration Version Control Code Review Success usually comes to those who are too busy to be looking for it.

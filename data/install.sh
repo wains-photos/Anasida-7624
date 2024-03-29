@@ -8,3 +8,4 @@ Great things never come from comfort zones. Multi-threading Big Data Optimizatio
 API Gateway Act as if what you do makes a difference. It does. A/B Testing Pull Request DNS Routing Docker Serverless
 Success is not in what you have, but who you are. Big Data Database Indexing Microservices Container Orchestration Virtual Machines Data Pipeline Server Response Happiness is not something ready made. It comes from your own actions. IoT Work hard in silence, let your success be your noise.
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Docker Testing Scalability Parallel Processing
+Success is how high you bounce when you hit bottom. Message Queue Monitoring Multi-threading UX Optimization
