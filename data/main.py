@@ -7,3 +7,4 @@ API Gateway Logging Simplicity is the ultimate sophistication. Performance Rabbi
 IoT Microservices Act as if what you do makes a difference. It does. Database Indexing Security Multi-threading Do what you love and the money will follow. Backend Deployment Kubernetes
 Do what you love and the money will follow. If you can dream it, you can do it. Algorithm Automation A/B Testing Success is how high you bounce when you hit bottom. Load Testing Stay hungry, stay foolish.
 NLP Artificial Intelligence Content Delivery Network IoT Work hard in silence, let your success be your noise. Data Pipeline Quantum Computing
+WebSockets GraphQL Version Control Python Framework Artificial Intelligence
