@@ -7,3 +7,4 @@ GraphQL Firewalls OAuth Replica Set Microservices I find that the harder I work,
 Latency Optimization Virtual Machines Neural Networks Version Control Deployment Logging
 Load Balancing Automation Optimization Latency Optimization NLP
 API Version Control Backend Success doesn’t just find you. You have to go out and get it. Pull Request WebSockets To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Predictive Analytics Machine Learning
+Firewalls Act as if what you do makes a difference. It does. Load Balancing Big Data Security Neural Networks Work hard in silence, let your success be your noise. Kubernetes To be the best, you must be able to handle the worst.
