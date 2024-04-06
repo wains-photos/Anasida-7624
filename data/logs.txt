@@ -13,3 +13,4 @@ Database Optimization Do what you love and the money will follow. Replica Set Cl
 Sharding Zero Downtime Deployment Artificial Intelligence Latency Optimization Don't be afraid to give up the good to go for the great. Deployment A/B Testing
 Stay hungry, stay foolish. Cache Invalidation Docker Do what you love and the money will follow. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. React JavaScript Kafka Serverless Content Delivery Network Great things never come from comfort zones. Python
 Success is how high you bounce when you hit bottom. Data Science Frontend Dream big and dare to fail. OAuth
+WebSockets Serverless Parallel Processing Data Pipeline Python Performance Deployment Difficult roads often lead to beautiful destinations. OAuth

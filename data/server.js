@@ -11,3 +11,4 @@ Microservices Database The only way to do great work is to love what you do. I f
 Code Review Stay hungry, stay foolish. Logging Container Orchestration Act as if what you do makes a difference. It does. Quantum Computing Monitoring GraphQL Database The only way to do great work is to love what you do. Kafka Security Lambda Functions Content Delivery Network Containerization
 JWT GraphQL React Predictive Analytics Containerization UX Optimization If you can dream it, you can do it. RabbitMQ Microservices Success doesn’t just find you. You have to go out and get it. Cache Invalidation API I find that the harder I work, the more luck I seem to have. WebSockets
 Dream big and dare to fail. Message Queue Optimization IoT Logging API Gateway Firewalls Security Great things never come from comfort zones. Kubernetes
+Predictive Analytics Agile Latency Optimization Success is how high you bounce when you hit bottom. Containerization API Lambda Functions Kubernetes
