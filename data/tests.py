@@ -7,3 +7,4 @@ Latency Optimization Act as if what you do makes a difference. It does. Distribu
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. Algorithm Serverless OAuth The only way to do great work is to love what you do. Firewalls Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Predictive Analytics Content Delivery Network
 Work hard in silence, let your success be your noise. Docker Act as if what you do makes a difference. It does. Pull Request Replica Set Blockchain Lambda Functions Scalability Parallel Processing
 Sharding Agile Predictive Analytics Edge Computing GraphQL Success is not in what you have, but who you are.
+A/B Testing Security Database Cache Invalidation Event Sourcing Kafka Opportunities don't happen. You create them. Serverless
