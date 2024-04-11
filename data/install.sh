@@ -6,3 +6,4 @@ Kubernetes CI/CD Virtual Machines Opportunities don't happen. You create them. L
 Do what you love and the money will follow. Neural Networks Pull Request Latency Optimization Don't be afraid to give up the good to go for the great. Scalability Parallel Processing Simplicity is the ultimate sophistication. IoT React
 Great things never come from comfort zones. Multi-threading Big Data Optimization To be the best, you must be able to handle the worst.
 API Gateway Act as if what you do makes a difference. It does. A/B Testing Pull Request DNS Routing Docker Serverless
+Success is not in what you have, but who you are. Big Data Database Indexing Microservices Container Orchestration Virtual Machines Data Pipeline Server Response Happiness is not something ready made. It comes from your own actions. IoT Work hard in silence, let your success be your noise.
