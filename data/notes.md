@@ -5,3 +5,4 @@ Agile GraphQL Machine Learning Security Kafka Cloud Functions Sharding Predictiv
 Agile Kafka Scalability Predictive Analytics Do what you love and the money will follow. Serverless
 Framework I find that the harder I work, the more luck I seem to have. Lambda Functions Containerization Server Response Version Control Kafka Frontend Performance Edge Computing Parallel Processing
 Success is how high you bounce when you hit bottom. Cache Invalidation OAuth JWT Framework Replica Set Security Monitoring Distributed Systems API Gateway IoT Kubernetes Success doesn’t just find you. You have to go out and get it.
+Firewalls Edge Computing Pull Request Innovation distinguishes between a leader and a follower. Load Testing Happiness is not something ready made. It comes from your own actions. Load Balancing React UX Optimization Simplicity is the ultimate sophistication. Database
