@@ -9,3 +9,4 @@ Quantum Computing Predictive Analytics Security Server Response Automation UX Op
 Framework Do what you love and the money will follow. Load Testing A/B Testing React Backend
 Stay hungry, stay foolish. Machine Learning Firewalls WebSockets Framework Kafka Edge Computing GraphQL CI/CD Microservices UX Optimization Virtual Machines
 Event-driven Architecture Security Microservices Neural Networks Virtual Machines Quantum Computing Artificial Intelligence Sharding Replica Set
+WebSockets Server Response Parallel Processing Data Pipeline Replica Set

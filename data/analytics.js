@@ -6,3 +6,4 @@ Python Deployment Multi-threading UX Optimization JavaScript Virtual Machines Th
 Neural Networks Code Review Latency Optimization Content Delivery Network NLP Quantum Computing The only way to do great work is to love what you do. Logging Virtual Machines Blockchain Success doesn’t just find you. You have to go out and get it. Kubernetes Event Sourcing Docker IoT
 Cloud Edge Computing Framework Database Multi-threading Cache Invalidation Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Distributed Systems DNS Routing React
 To be the best, you must be able to handle the worst. Logging The only way to do great work is to love what you do. Neural Networks DevOps Sharding Agile Database Indexing
+Performance Do what you love and the money will follow. Blockchain Event-driven Architecture If you can dream it, you can do it. Simplicity is the ultimate sophistication. DNS Routing
