@@ -5,3 +5,4 @@ Artificial Intelligence Docker Monitoring A/B Testing Neural Networks Cloud Func
 Scalability Algorithm I find that the harder I work, the more luck I seem to have. Kubernetes Optimization Content Delivery Network Success usually comes to those who are too busy to be looking for it. Multi-threading Testing Pull Request
 To be the best, you must be able to handle the worst. DNS Routing Do what you love and the money will follow. Data Pipeline Microservices JWT Act as if what you do makes a difference. It does. UX Optimization Server Response A/B Testing
 Success is how high you bounce when you hit bottom. Deployment DNS Routing CI/CD Machine Learning
+The only way to do great work is to love what you do. Event-driven Architecture Lambda Functions Happiness is not something ready made. It comes from your own actions. Data Science Cloud Functions Agile Firewalls Artificial Intelligence Algorithm Docker Backend Database Indexing
