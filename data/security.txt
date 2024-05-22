@@ -5,3 +5,4 @@ Success is how high you bounce when you hit bottom. Blockchain Serverless Opport
 Parallel Processing Server Response Event-driven Architecture Big Data Load Balancing Multi-threading Content Delivery Network Monitoring Act as if what you do makes a difference. It does. Database Indexing IoT
 GraphQL Firewalls OAuth Replica Set Microservices I find that the harder I work, the more luck I seem to have. WebSockets Artificial Intelligence Framework
 Latency Optimization Virtual Machines Neural Networks Version Control Deployment Logging
+Load Balancing Automation Optimization Latency Optimization NLP
