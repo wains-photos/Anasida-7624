@@ -5,3 +5,4 @@ Load Testing WebSockets Blockchain Edge Computing Container Orchestration Stay h
 Sharding Database Indexing Kafka Pull Request Version Control Algorithm Edge Computing Artificial Intelligence Backend
 Distributed Systems Load Testing Zero Downtime Deployment Kubernetes API Success is how high you bounce when you hit bottom. IoT Neural Networks RabbitMQ Monitoring Frontend A/B Testing Database Python
 Don't be afraid to give up the good to go for the great. Multi-threading Stay hungry, stay foolish. Distributed Systems I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Load Balancing Deployment Scalability Version Control Performance Difficult roads often lead to beautiful destinations. Security
+Message Queue Blockchain Zero Downtime Deployment IoT Cache Invalidation React API Gateway Happiness is not something ready made. It comes from your own actions. WebSockets
