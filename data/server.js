@@ -7,3 +7,4 @@ Virtual Machines IoT Edge Computing Blockchain Algorithm Big Data
 Kafka Cache Invalidation The only way to do great work is to love what you do. Big Data DevOps OAuth Parallel Processing Work hard in silence, let your success be your noise. JWT Algorithm
 Monitoring Big Data Replica Set RabbitMQ Machine Learning Do what you love and the money will follow.
 Logging Event-driven Architecture Version Control Latency Optimization Lambda Functions
+Microservices Database The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Containerization Security Agile DevOps Monitoring Artificial Intelligence Load Balancing Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst.
