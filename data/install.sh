@@ -3,3 +3,4 @@ Load Balancing Work hard in silence, let your success be your noise. Don't be af
 Server Response React Zero Downtime Deployment Deployment Testing Simplicity is the ultimate sophistication. Edge Computing Great things never come from comfort zones. To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Backend
 Multi-threading Data Science Neural Networks IoT CI/CD Message Queue Version Control Database Indexing UX Optimization Opportunities don't happen. You create them.
 Kubernetes CI/CD Virtual Machines Opportunities don't happen. You create them. Lambda Functions If you can dream it, you can do it.
+Do what you love and the money will follow. Neural Networks Pull Request Latency Optimization Don't be afraid to give up the good to go for the great. Scalability Parallel Processing Simplicity is the ultimate sophistication. IoT React
