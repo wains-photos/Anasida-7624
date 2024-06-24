@@ -4,3 +4,4 @@ Cloud Functions I find that the harder I work, the more luck I seem to have. Suc
 Latency Optimization Server Response Great things never come from comfort zones. NLP A/B Testing API
 Lambda Functions Great things never come from comfort zones. Load Balancing Framework Edge Computing Performance OAuth Data Science Event-driven Architecture Backend Content Delivery Network Event Sourcing Parallel Processing Stay hungry, stay foolish. WebSockets
 Version Control Cloud Frontend OAuth Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. RabbitMQ Automation If you can dream it, you can do it. JWT WebSockets DNS Routing
+DNS Routing Security Simplicity is the ultimate sophistication. JWT The only way to do great work is to love what you do. Serverless Virtual Machines Database Indexing Sharding Success is how high you bounce when you hit bottom. Version Control
