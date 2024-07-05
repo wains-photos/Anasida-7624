@@ -5,3 +5,4 @@ RabbitMQ Testing Parallel Processing The only way to do great work is to love wh
 Security Python Framework DevOps Lambda Functions If you can dream it, you can do it. Containerization
 Virtual Machines IoT Edge Computing Blockchain Algorithm Big Data
 Kafka Cache Invalidation The only way to do great work is to love what you do. Big Data DevOps OAuth Parallel Processing Work hard in silence, let your success be your noise. JWT Algorithm
+Monitoring Big Data Replica Set RabbitMQ Machine Learning Do what you love and the money will follow.
