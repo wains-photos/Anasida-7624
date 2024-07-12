@@ -4,3 +4,4 @@ Act as if what you do makes a difference. It does. Kubernetes Scalability Pull R
 Agile GraphQL Machine Learning Security Kafka Cloud Functions Sharding Predictive Analytics Blockchain Automation Zero Downtime Deployment Framework Act as if what you do makes a difference. It does. Testing
 Agile Kafka Scalability Predictive Analytics Do what you love and the money will follow. Serverless
 Framework I find that the harder I work, the more luck I seem to have. Lambda Functions Containerization Server Response Version Control Kafka Frontend Performance Edge Computing Parallel Processing
+Success is how high you bounce when you hit bottom. Cache Invalidation OAuth JWT Framework Replica Set Security Monitoring Distributed Systems API Gateway IoT Kubernetes Success doesn’t just find you. You have to go out and get it.
