@@ -3,3 +3,4 @@ Quantum Computing Content Delivery Network Event Sourcing Predictive Analytics A
 Act as if what you do makes a difference. It does. Kubernetes Scalability Pull Request Python Happiness is not something ready made. It comes from your own actions. Cloud Functions Content Delivery Network Latency Optimization
 Agile GraphQL Machine Learning Security Kafka Cloud Functions Sharding Predictive Analytics Blockchain Automation Zero Downtime Deployment Framework Act as if what you do makes a difference. It does. Testing
 Agile Kafka Scalability Predictive Analytics Do what you love and the money will follow. Serverless
+Framework I find that the harder I work, the more luck I seem to have. Lambda Functions Containerization Server Response Version Control Kafka Frontend Performance Edge Computing Parallel Processing
