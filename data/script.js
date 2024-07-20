@@ -7,3 +7,4 @@ WebSockets Container Orchestration Algorithm Cache Invalidation Innovation disti
 Agile Big Data Testing Database Success is how high you bounce when you hit bottom.
 IoT Message Queue Algorithm Deployment Neural Networks
 Simplicity is the ultimate sophistication. JWT Python The only way to do great work is to love what you do. Machine Learning Code Review Edge Computing RabbitMQ Performance JavaScript Quantum Computing Database API Gateway Content Delivery Network Microservices
+Database API Opportunities don't happen. You create them. Multi-threading Cloud Functions Distributed Systems
