@@ -3,3 +3,4 @@ Server Response I find that the harder I work, the more luck I seem to have. Clo
 Content Delivery Network Optimization Deployment Security Kubernetes Pull Request Testing Kafka Do what you love and the money will follow.
 Load Testing WebSockets Blockchain Edge Computing Container Orchestration Stay hungry, stay foolish. Latency Optimization Cache Invalidation Cloud Happiness is not something ready made. It comes from your own actions. NLP Python
 Sharding Database Indexing Kafka Pull Request Version Control Algorithm Edge Computing Artificial Intelligence Backend
+Distributed Systems Load Testing Zero Downtime Deployment Kubernetes API Success is how high you bounce when you hit bottom. IoT Neural Networks RabbitMQ Monitoring Frontend A/B Testing Database Python
