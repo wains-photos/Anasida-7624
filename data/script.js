@@ -6,3 +6,4 @@ Security Database React Scalability Happiness is not something ready made. It co
 WebSockets Container Orchestration Algorithm Cache Invalidation Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. OAuth Artificial Intelligence NLP If you can dream it, you can do it. Logging Do what you love and the money will follow. Database Indexing Backend
 Agile Big Data Testing Database Success is how high you bounce when you hit bottom.
 IoT Message Queue Algorithm Deployment Neural Networks
+Simplicity is the ultimate sophistication. JWT Python The only way to do great work is to love what you do. Machine Learning Code Review Edge Computing RabbitMQ Performance JavaScript Quantum Computing Database API Gateway Content Delivery Network Microservices
