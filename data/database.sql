@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. GraphQL Deployment Docker JavaScript 
 Firewalls WebSockets Database Indexing Neural Networks Don't be afraid to give up the good to go for the great. RabbitMQ Content Delivery Network Data Pipeline Big Data Blockchain Opportunities don't happen. You create them. Serverless Quantum Computing
 Event-driven Architecture Data Science Serverless Machine Learning Automation Data Pipeline Great things never come from comfort zones. Neural Networks
 Virtual Machines Database Zero Downtime Deployment Machine Learning Logging Server Response Algorithm Predictive Analytics Distributed Systems DevOps Dream big and dare to fail. Load Testing Big Data Version Control
+Predictive Analytics The only way to do great work is to love what you do. Event Sourcing IoT Work hard in silence, let your success be your noise. Load Testing Success is how high you bounce when you hit bottom. API Gateway
