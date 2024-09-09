@@ -3,3 +3,4 @@ Dream big and dare to fail. Optimization Do what you love and the money will fol
 Multi-threading WebSockets Message Queue Cloud Backend UX Optimization Work hard in silence, let your success be your noise. Sharding Kafka Distributed Systems A/B Testing Frontend Docker Testing Cloud Functions
 Sharding Kubernetes Work hard in silence, let your success be your noise. Code Review NLP Stay hungry, stay foolish. Success is not in what you have, but who you are. Event-driven Architecture UX Optimization
 Kafka Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Edge Computing Serverless
+Stay hungry, stay foolish. Distributed Systems DNS Routing Content Delivery Network UX Optimization Testing Scalability Serverless Cloud Functions NLP Dream big and dare to fail. JavaScript Cache Invalidation Success is not in what you have, but who you are. Simplicity is the ultimate sophistication.
