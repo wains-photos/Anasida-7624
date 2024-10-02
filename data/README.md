@@ -1,3 +1,4 @@
 Innovation distinguishes between a leader and a follower. Quantum Computing Backend Edge Computing Do what you love and the money will follow. Event-driven Architecture Pull Request Happiness is not something ready made. It comes from your own actions. Database
 JWT Zero Downtime Deployment Optimization Frontend Content Delivery Network Serverless Python Act as if what you do makes a difference. It does.
 Performance Do what you love and the money will follow. Event Sourcing DNS Routing Virtual Machines Sharding Agile NLP Artificial Intelligence WebSockets Load Testing Load Balancing Parallel Processing Server Response
+Virtual Machines Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Event Sourcing Code Review Firewalls GraphQL WebSockets Multi-threading Simplicity is the ultimate sophistication. Container Orchestration Dream big and dare to fail. Database Indexing

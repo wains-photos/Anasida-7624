@@ -2,3 +2,4 @@ Agile JWT Logging Do what you love and the money will follow. Microservices Data
 Python CI/CD Backend A/B Testing Logging Neural Networks WebSockets Multi-threading Success is not in what you have, but who you are. Optimization Firewalls
 Cloud Functions I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. JWT Do what you love and the money will follow. Predictive Analytics Message Queue Testing API Gateway Database Distributed Systems Cache Invalidation Artificial Intelligence
 Latency Optimization Server Response Great things never come from comfort zones. NLP A/B Testing API
+Lambda Functions Great things never come from comfort zones. Load Balancing Framework Edge Computing Performance OAuth Data Science Event-driven Architecture Backend Content Delivery Network Event Sourcing Parallel Processing Stay hungry, stay foolish. WebSockets
