@@ -5,3 +5,4 @@ Microservices JWT OAuth Optimization Difficult roads often lead to beautiful des
 Pull Request Innovation distinguishes between a leader and a follower. Code Review Opportunities don't happen. You create them. API API Gateway Don't be afraid to give up the good to go for the great. Containerization Distributed Systems
 Cache Invalidation IoT Monitoring Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Docker Event Sourcing
 NLP React Don't be afraid to give up the good to go for the great. Latency Optimization Multi-threading Algorithm
+Artificial Intelligence Framework Edge Computing Blockchain Data Pipeline
