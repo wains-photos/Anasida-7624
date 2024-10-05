@@ -1,2 +1,3 @@
 If you can dream it, you can do it. Backend RabbitMQ Monitoring NLP Virtual Machines Database I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Performance Event-driven Architecture Message Queue
 Simplicity is the ultimate sophistication. GraphQL Deployment Docker JavaScript Load Balancing NLP Data Pipeline Serverless DevOps Algorithm Success doesn’t just find you. You have to go out and get it. Version Control Sharding
+Firewalls WebSockets Database Indexing Neural Networks Don't be afraid to give up the good to go for the great. RabbitMQ Content Delivery Network Data Pipeline Big Data Blockchain Opportunities don't happen. You create them. Serverless Quantum Computing
