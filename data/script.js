@@ -1,3 +1,4 @@
 Data Pipeline Security OAuth Event Sourcing Load Testing Containerization Database Frontend IoT Serverless
 React Success usually comes to those who are too busy to be looking for it. Event Sourcing Dream big and dare to fail. Machine Learning Optimization Opportunities don't happen. You create them. Testing Deployment Kafka Version Control
 Replica Set Data Science Event-driven Architecture Artificial Intelligence Distributed Systems UX Optimization
+To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Distributed Systems JavaScript Version Control Happiness is not something ready made. It comes from your own actions. JWT Multi-threading Cloud Functions Dream big and dare to fail. Kafka Do what you love and the money will follow. Cloud Testing
