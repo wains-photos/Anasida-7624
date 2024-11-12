@@ -2,3 +2,4 @@ Firewalls Cache Invalidation A/B Testing Backend If you can dream it, you can do
 Dream big and dare to fail. Optimization Do what you love and the money will follow. Cache Invalidation Monitoring Server Response To be the best, you must be able to handle the worst. Kubernetes Backend Load Balancing Version Control
 Multi-threading WebSockets Message Queue Cloud Backend UX Optimization Work hard in silence, let your success be your noise. Sharding Kafka Distributed Systems A/B Testing Frontend Docker Testing Cloud Functions
 Sharding Kubernetes Work hard in silence, let your success be your noise. Code Review NLP Stay hungry, stay foolish. Success is not in what you have, but who you are. Event-driven Architecture UX Optimization
+Kafka Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Edge Computing Serverless
