@@ -1,1 +1,2 @@
 WebSockets Cloud Functions Virtual Machines Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions.
+Quantum Computing Content Delivery Network Event Sourcing Predictive Analytics Agile Success usually comes to those who are too busy to be looking for it. Neural Networks Happiness is not something ready made. It comes from your own actions. Load Balancing Parallel Processing
