@@ -1,1 +1,2 @@
 Innovation distinguishes between a leader and a follower. Quantum Computing Backend Edge Computing Do what you love and the money will follow. Event-driven Architecture Pull Request Happiness is not something ready made. It comes from your own actions. Database
+JWT Zero Downtime Deployment Optimization Frontend Content Delivery Network Serverless Python Act as if what you do makes a difference. It does.
