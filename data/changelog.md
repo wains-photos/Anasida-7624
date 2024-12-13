@@ -1,1 +1,2 @@
 Python I find that the harder I work, the more luck I seem to have. NLP Cloud Act as if what you do makes a difference. It does. Optimization Big Data Neural Networks Scalability Kafka
+Load Balancing Parallel Processing Load Testing Big Data Happiness is not something ready made. It comes from your own actions. Data Science Success is how high you bounce when you hit bottom. Docker Security Dream big and dare to fail. Do what you love and the money will follow. UX Optimization Container Orchestration CI/CD Pull Request
