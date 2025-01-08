@@ -1,1 +1,2 @@
 The only way to do great work is to love what you do. Frontend Scalability Sharding Data Pipeline Cloud Kafka Container Orchestration
+Virtual Machines Success is not in what you have, but who you are. Latency Optimization Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Kubernetes Replica Set Testing I find that the harder I work, the more luck I seem to have. Content Delivery Network API Parallel Processing Pull Request Big Data
