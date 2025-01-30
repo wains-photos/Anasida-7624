@@ -1,1 +1,2 @@
 Multi-threading Don't be afraid to give up the good to go for the great. Message Queue DevOps Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
+Sharding Latency Optimization Difficult roads often lead to beautiful destinations. Event Sourcing Kubernetes Deployment Load Testing Edge Computing NLP
